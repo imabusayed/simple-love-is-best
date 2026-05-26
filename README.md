@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/simple-love-is-best/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Simple Love Is Best](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/simple-love-is-best/) |
+| **Get License** | [Request Licensing for Simple Love Is Best](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/simple-love-is-best/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c87d94d7cc2ebd22aa0f0c6ed6c7d320b10d241e5ab9c07686e190dee4267a11` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
